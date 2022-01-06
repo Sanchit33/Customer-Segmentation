@@ -11,4 +11,5 @@
 ******************************************Training Dataset******************************************
 
 ```Jupyter Notebook
+ kaggle kernels pull fabiendaniel/customer-segmentation
 ```
